@@ -3,7 +3,9 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id": "000001",
+        "name": "Santa Catarina"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -382,7 +384,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id": "000002",
+        "name": "Marechal Floriano"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
