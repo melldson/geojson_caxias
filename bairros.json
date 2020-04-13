@@ -2349,7 +2349,9 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "id": "000014",
+        "name": "Medianeira"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2498,7 +2500,8 @@
       "type": "Feature",
       "properties": {
         "id": "000015",
-        "name": "Floresta},
+        "name": "Floresta"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
