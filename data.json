@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {"id": "4305108", "name": "Caxias do Sul"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
